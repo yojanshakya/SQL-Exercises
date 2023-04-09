@@ -1,0 +1,1 @@
+SELECT * FROM ORDERS WHERE salesman_id=5001;
